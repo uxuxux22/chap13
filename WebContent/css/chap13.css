@@ -1,0 +1,21 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&family=Gaegu:wght@300&family=Nanum+Gothic+Coding&family=Nanum+Pen+Script&display=swap');
+*{
+	font-family: 'Black Han Sans', sans-serif;
+font-family: 'Do Hyeon', sans-serif;
+font-family: 'Gaegu', cursive;
+font-family: 'Nanum Gothic Coding', monospace;
+font-family: 'Nanum Pen Script', cursive;
+}
+.bg-skyblue{
+	background-color: skyblue;	
+}
+.myborder{
+	border: 1px solid #ffffff;
+}
+.mycenter{
+	text-align: center;
+}
+.myright{
+	text-align: right;
+}
